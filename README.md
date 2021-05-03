@@ -2,3 +2,4 @@
 
 hi this os code
 yum install git vagara vagara 3.0
+yp
